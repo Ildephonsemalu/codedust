@@ -1,0 +1,65 @@
+*{
+	padding: 10px;
+	margin: 0;
+
+}
+nav{
+	background-color: blue;
+	padding-top: 25px;
+	overflow: hidden;
+	position: relative;
+}
+ul li{
+	float: left;
+	padding: 10px;
+	padding-top: 30px;
+	list-style-type: none;
+	text-transform: uppercase;
+	front-size: 25px
+}
+
+.logo{
+	  width: 100px;
+	  height: 100;
+	  float:  left;
+	  padding-left: 100px;
+}
+.first-section{
+	font-size: 35px;
+	padding-top: 50;
+	background-size: cover;
+	background-image: url(images/kakumafighters.jfif);
+	height: 200px;
+	background-position: center center;
+
+
+}
+	
+
+a{
+text-decoration: none;	
+color: red;
+list-style-type: none;
+}
+a:hover{
+	color: blue;
+	background: yellow;
+}
+.footer{
+	background-color: black;
+	height: 100px;
+	padding-top: 100px;
+	width: 150;
+	position: relative;
+}
+span{
+	color: red;
+}
+
+
+
+
+
+
+
+
